@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @marys-s
-- 👀 I’m interested in Coding, Kickboxing and Planes
-- 🌱 I’m currently learning HTML5/CSS/Python
-- 📫 How to reach me 117552@vituscollege.nl
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im champ on r6
+mangos
